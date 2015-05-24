@@ -33,4 +33,5 @@ View(data)
 I found these threads helped me a lot to do this project
 * https://class.coursera.org/getdata­014/forum/thread?thread_id=30
 * https://class.coursera.org/getdata­014/forum/thread?thread_id=31
+
 Thank you for David Hood and everyone that have participated in the discussion forum
